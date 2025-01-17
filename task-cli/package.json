@@ -1,0 +1,12 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "description": "Roadmap.sh backend project task-track ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thenura Kulathunga",
+  "license": "ISC"
+}
